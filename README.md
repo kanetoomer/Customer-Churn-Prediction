@@ -30,7 +30,14 @@ Customer churn is a crucial metric for businesses that rely on subscription mode
 - Model building (logistic regression, decision trees, random forest)
 - Model evaluation and interpretation
 
-
+**Tools**
+- Python 3
+  - Pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+- PyCharm
+- Jupyter Notebook
 
 ## Dataset
 
@@ -125,11 +132,11 @@ git clone (https://github.com/kanetoomer/Customer-Churn-Prediction.git)
 
 ***For Windows***:
 ```
-pip install pandas numpy matplotlib seaborn scikit-learn
+pip install pandas matplotlib seaborn scikit-learn
 ```
 ***For MacOS***:
 ```
-pip3 install pandas numpy matplotlib seaborn scikit-learn
+pip3 install pandas matplotlib seaborn scikit-learn
 ```
 
 ### 3. ***Run the Jupyter Notebook***:
