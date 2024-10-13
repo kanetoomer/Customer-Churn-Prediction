@@ -119,7 +119,7 @@ Understanding churn drivers enables businesses to design targeted strategies, su
 
 ### 1. ***Clone the repository***: 
 ```
-git clone (https://github.com/yourusername/customer-churn-prediction.git)
+git clone (https://github.com/kanetoomer/Customer-Churn-Prediction.git)
 ```
 ### 2. ***Install dependencies***:
 
